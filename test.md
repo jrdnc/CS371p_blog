@@ -1,6 +1,6 @@
 ---
-layout: page
-title: This is a Test!
+layout: post
+title: Dont't Panic! This is just a Test!
 ---
 
-I repeat! This is only a test!
+I repeat! This is just a test!
